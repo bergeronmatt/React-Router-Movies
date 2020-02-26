@@ -70,3 +70,18 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+.home-button:hover {
+  background-color: green;
+  color: white;
+}
+
+.movies-button {
+  padding: 5px 10px;
+  background-color: lightskyblue;
+}
+
+.movies-button:hover {
+  background-color: green;
+  color: white;
+}
